@@ -1,0 +1,10 @@
+c:\users\вероника\documents\visual studio 2017\Projects\Lab3MIS\Lab3MIS\bin\Debug\Lab3MIS.exe.config
+c:\users\вероника\documents\visual studio 2017\Projects\Lab3MIS\Lab3MIS\bin\Debug\Lab3MIS.exe
+c:\users\вероника\documents\visual studio 2017\Projects\Lab3MIS\Lab3MIS\bin\Debug\Lab3MIS.pdb
+c:\users\вероника\documents\visual studio 2017\Projects\Lab3MIS\Lab3MIS\obj\Debug\Lab3MIS.Form1.resources
+c:\users\вероника\documents\visual studio 2017\Projects\Lab3MIS\Lab3MIS\obj\Debug\Lab3MIS.Properties.Resources.resources
+c:\users\вероника\documents\visual studio 2017\Projects\Lab3MIS\Lab3MIS\obj\Debug\Lab3MIS.csproj.GenerateResource.Cache
+c:\users\вероника\documents\visual studio 2017\Projects\Lab3MIS\Lab3MIS\obj\Debug\Lab3MIS.exe
+c:\users\вероника\documents\visual studio 2017\Projects\Lab3MIS\Lab3MIS\obj\Debug\Lab3MIS.pdb
+C:\Users\Вероника\Documents\Visual Studio 2017\Projects\Lab3MIS\Lab3MIS\obj\Debug\Lab3MIS.csprojAssemblyReference.cache
+C:\Users\Вероника\Documents\Visual Studio 2017\Projects\Lab3MIS\Lab3MIS\obj\Debug\Lab3MIS.csproj.CoreCompileInputs.cache
